@@ -1,1 +1,1 @@
-# findi
+# http://www.joinfindi.org/
